@@ -2,13 +2,6 @@
 
  react medical record 
 
-## Interface
-
-<div align="center">
-    <img width="300" src="https://user-images.githubusercontent.com/57734796/92193331-6d752c00-ee3e-11ea-8b92-8ea5c6c3fd43.png"/>
-    <img width="300" src="https://user-images.githubusercontent.com/57734796/92193402-a2817e80-ee3e-11ea-8fb9-f66a28ee508a.png"/>
-</div>
-
 ## Getting started
 
 Clone this repo:
