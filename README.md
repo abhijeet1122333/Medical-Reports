@@ -1,6 +1,6 @@
 # React Medical Record
 
-Simple react medical record example.
+ react medical record 
 
 ## Interface
 
@@ -14,7 +14,7 @@ Simple react medical record example.
 Clone this repo:
 
 ```bash
-git clone https://github.com/arcmena/react-medical-record.git
+git clone https://https://github.com/abhijeet1122333/Medical-Reports
 ```
 
 Install the dependencies:
@@ -40,11 +40,10 @@ REACT_APP_API=    # The base URL to the api (e.g. http://localhost:3500)
 Then you can run to start:
 
 ```bash
-yarn start
+yarn start or npm start
 ```
 
 > **Note:** The server will start at http://localhost:3000 by default.
 
-## Author
 
--   **Marcelo Mena** [arcmena](https://github.com/arcmena)
+
